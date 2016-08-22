@@ -3,6 +3,11 @@ body{
 }
 .box{
 	height: 100px;
+	width: 200px;
+	padding: 10px;
+	margin-bottom: 10px;
+	display: inline;
+	margin:0 10px 0 10px;
 }
 .yellow{
 	background-color: #FFE633; 
